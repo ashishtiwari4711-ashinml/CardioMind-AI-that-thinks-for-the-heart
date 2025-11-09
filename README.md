@@ -32,11 +32,18 @@ Attributes: Age, Sex, Blood Pressure, Cholesterol, Chest Pain Type, Heart Rate, 
 Target Variable: target → 1 = heart disease present, 0 = no heart disease
 
 🛠️ Tech Stack
+
+
 Category	Tools / Libraries
+
 Language	Python 3.x
+
 Data Handling	Pandas, NumPy
+
 Visualization	Matplotlib, Seaborn
+
 Modeling	Scikit-learn,
+
 Evaluation	Scikit-learn Metrics
 
 🔍 Methodology
