@@ -1,4 +1,5 @@
-🫀 Predicting Heart Disease Risk Using Machine Learning
+🫀 **Predicting Heart Disease Risk Using Machine Learning**
+
 📖 Overview
 
 Heart disease is one of the leading causes of death worldwide. Early detection can save lives and reduce healthcare costs.
